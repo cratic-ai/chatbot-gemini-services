@@ -1,7 +1,0 @@
-{
-  "name": "AI-SOP Assistant CraticAI",
-  "description": "AI-SOP Assistant by CraticAI. Upload your Standard Operating Procedures to get instant, accurate answers to your process questions, powered by Gemini.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
