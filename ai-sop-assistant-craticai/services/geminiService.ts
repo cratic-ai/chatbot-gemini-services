@@ -16,6 +16,7 @@ async function delay(ms: number): Promise<void> {
     return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+
 // FIX: The list() method returns a Pager, which is an async iterable.
 // The response object does not have a `fileSearchStores` property.
 // We need to iterate over the Pager to collect the stores.
